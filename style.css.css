@@ -1,0 +1,154 @@
+ *{
+     margin:0;
+     padding: 0;
+
+ }
+ 
+ 
+ .img-1{
+    
+    width: 70px;
+
+}
+.img-2{
+    width:30px;
+    
+}
+
+
+.img{
+    
+    position: absolute;
+    z-index: 2;
+    width: 100%;
+    height: 70%;
+    object-fit: cover;
+    background-position: center;
+}
+
+.btn{
+    width: 13rem;
+
+}
+.centered {
+    font-size: xx-large;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.bg{
+    
+    justify-content: center;
+    align-content: center;
+    background-position: center center;
+    
+    height: 100vh;
+    background-size: contain;
+    background-repeat: no-repeat;
+
+}
+.color{
+    border-bottom: 1px solid #2d85f3;
+}
+.bg-img{
+    position: relative;
+}
+
+.bg-text{
+    position: absolute;
+    z-index: 1;
+
+width: 100%;
+  margin-top: -400px;
+  text-align: center;
+}
+
+h2{
+    font-weight: revert;
+    line-height: 1.25;
+    letter-spacing: -0.025em;
+    color: #000000;
+}
+
+p{
+    font-size: 1.1rem;
+    font:caption;
+    font-size: 18px;
+    line-height: 1.5;
+}
+h4{
+    font-size: 1.3rem;
+}
+
+.inline-article{
+    width: 100%;
+    height: auto;
+    max-width: 540px;
+    margin: 1em 0 .75em 0;
+}
+
+.link-youtube{
+    
+        margin-top: .5em;
+        margin-bottom: 2em;
+        
+}
+.link-youtube :hover {
+    background-color: #1c70d8;
+}
+.youtube-img{
+    text-decoration: none;
+    
+}
+.image-1{
+    border-radius: 22px;
+    height: 3.2rem;
+    width: 18.6rem;
+
+}
+.image-2 {
+    border-radius: 22px;
+    height: 3.2rem;
+    width: 13.6rem;
+}
+
+.imo{
+    width: 100%;
+    height: auto;
+    max-width: 540px;
+    margin: 1em 0 .75em 0;
+}
+
+.youtube-img0{
+    text-decoration: none;
+}
+.image-3{
+    border-radius: 22px;
+    height: 3.2rem;
+    width: 17.6rem;
+
+}
+.social{
+    width:50%;
+    float: left;
+    
+    
+}
+.menu-social-media{
+    display: block;
+    font-weight: normal;
+    font-family: 'SupercellText-Medium',Helvetica,Arial,sans-serif;
+    font-size: 13px;
+    margin: 0;
+    color: #fff;
+}
+.para1{
+    font-size:revert ;
+
+}
+.para{
+    margin-left: 15px;
+    font-size: revert;
+}
+
